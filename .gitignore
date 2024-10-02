@@ -1,0 +1,46 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Native (claves y certificados)
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+/metro-cache/
+/.cache/
+
+# debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# Local env files (para variables de entorno como API keys)
+.env
+.env*.local
+
+# Typescript (si usas TS)
+*.tsbuildinfo
+
+# Android/iOS build files
+*.apk
+*.ipa
+
+# Misc
+Thumbs.db
+.vscode/
+.idea/
