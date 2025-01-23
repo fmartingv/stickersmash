@@ -81,4 +81,5 @@ Si tienes ideas o encuentras algún problema, no dudes en abrir un issue o un pu
 ## ❤️ Agradecimientos  
 
 - 🙌 A la comunidad de **React Native** y **Expo**.  
-- 📖 Al tutorial de [Expo](https://docs.expo.dev/tutorial/introduction/).  
+- 📖 Al tutorial de [Expo](https://docs.expo.dev/tutorial/introduction/).
+  
